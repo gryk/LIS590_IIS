@@ -1,0 +1,27 @@
+Cognitive Walkthrough
+Four criteria for walkthrough of tasks:
+
+
+Will users try to achieve right effect?
+Will user notice correct action is available?
+Will user associate correct action with effect to be achieved?
+If correct action is performed, will user see progress is being made to solution?
+
+
+
+Task 1: Sign In:
+Click sign-in button; username/password; Click sign-in button.  Success
+Task 2: Create repository for walkthrough
+See "my repositories"; nearby "new repository" button; click button; create a repository form; defaults to me as owner.  Custom name and description; Public/Private (described well).
+Initialize repository?  Creates README, but is that all?  It says to skip if importing existing repo.  Means I should check the box.
+Gitignore is failure: long menu list of obscure terms.  License is approachable from information button.
+Create repository.  Success
+Task 3: Load these notes into github repo.  Four options: create file, upload file, find file, clone/download.  The latter 2 seem unreasonable for this task.  I could upload the text file I am working on at the moment.  I will try to create and copy/paste.
+Create: opens text editor and prompts for filename.  Entered walkthrough.txt.
+Copy and paste this document.
+
+This was surprising because all of the formatting was lost.
+
+This is confusing.  At this point it does not seem possible to format document.  The final option is to commit new file with optional comment.  I know enough about version control this should be a meaningful message to locate this version (much harder to do than say).  But next is a question about committing to master or a new branch.  Not clear what this means.  Failure.
+　
+I will commit this version of the walkthrough now.  Commit message: "First pass walkthrough from sign in; create repo; create new file; to first commit." Commit to master.
