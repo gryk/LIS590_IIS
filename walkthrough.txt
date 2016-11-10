@@ -1,4 +1,4 @@
-Cognitive Walkthrough
+Github Cognitive Walkthrough
 Four criteria for walkthrough of tasks:
 
 
@@ -25,3 +25,61 @@ This was surprising because all of the formatting was lost.
 This is confusing.  At this point it does not seem possible to format document.  The final option is to commit new file with optional comment.  I know enough about version control this should be a meaningful message to locate this version (much harder to do than say).  But next is a question about committing to master or a new branch.  Not clear what this means.  Failure.
 　
 I will commit this version of the walkthrough now.  Commit message: "First pass walkthrough from sign in; create repo; create new file; to first commit." Commit to master.
+
+BitBucket Cognitive Walkthrough
+
+Four criteria for walkthrough of tasks:
+
+    Will users try to achieve right effect?
+    Will user notice correct action is available?
+    Will user associate correct action with effect to be achieved?
+    If correct action is performed, will user see progress is being made to solution?
+
+Task 1: Sign Up:
+
+Get Started button; Email/username/password; Verify email; sign-in button. Success
+Task 2: Create repository for walkthrough
+
+See “my repositories”; nearby “create a repository” link; click link; create a repository form; Public/Private; Git/Mecurial (not obvious; competitor of GitHub so I choose Git).
+
+Initialize repository? I select “starting from scratch”.  Instructions are to set up Git on my local machine.  Unfortunately, the instructions are for Mac/Unix and I am on a PC.
+
+Create repository. Failure on criterion 2.
+Task 3: Load these notes into github repo.
+
+It does not seem to be possible without installing local Git application.
+
+Sourceforge Cognitive Walkthrough
+Posted on November 4, 2016 by mgryk in Interface analysis
+Four criteria for walkthrough of tasks:
+
+    Will users try to achieve right effect?
+    Will user notice correct action is available?
+    Will user associate correct action with effect to be achieved?
+    If correct action is performed, will user see progress is being made to solution?
+
+Task 1: Sign In:
+
+Click sign-in button; username/password; Click sign-in button. Success
+Task 2: Create repository for walkthrough
+
+I see a blue CREATE button in upper right.  It stands out in great relief but is slightly ambiguous.  However, the rest of the site is cluttered with stuff which doesn’t appear to be for creating a repo.  I click create.
+
+New page with Create Your Project now and lots of detailed information about creating a new project.  Success.
+
+Sourceforge has many options. Git, SVN and Mercurial.  Here Mercurial is explained.  I select all 3.
+
+2-factor authentication.  Need SMS to phone.
+
+Create repository. Success
+
+Sourceforge starts tutorial.  I will follow it unless it seems boring.
+
+It was lightweight and pointed to most important features.  Nice but probably not necessary or overly useful.
+Task 3: Load these notes into sourceforge repo.
+
+Sourceforge is similar to BitBucket in that there is no web-based text editor to create or edit files within the repository.  Sourceforge expects you to commit/check-in files from an external git/mercurial/svn repository.
+
+This seems to be a major difference in viewpoint between GitHub and the others.  Bitbucket and Sourceforge are online repositories of document folders (i.e. code-bases) which have already been created elsewhere.  GitHub has the “extra” feature of being an online document editor.  So this task 3 for the cognitive walkthroughs is “unique” to GitHub.
+
+Note: It may not have been unique if Google Code was still around.  Google Code shut down on January 25, 2016.
