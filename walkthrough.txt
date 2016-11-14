@@ -92,5 +92,5 @@ Task 1. Sign in to Github.  This will require registering for an account if donâ
 Task 2. Request access to our LIS590 repository.
 
 
-Task 3.  There are two branches in the repository.  What would you say are their differences?
+Task 3.  There are three branches in the repository.  What would you say are their differences?
 
