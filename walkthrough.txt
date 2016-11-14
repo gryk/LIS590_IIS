@@ -83,3 +83,14 @@ Sourceforge is similar to BitBucket in that there is no web-based text editor to
 This seems to be a major difference in viewpoint between GitHub and the others.  Bitbucket and Sourceforge are online repositories of document folders (i.e. code-bases) which have already been created elsewhere.  GitHub has the “extra” feature of being an online document editor.  So this task 3 for the cognitive walkthroughs is “unique” to GitHub.
 
 Note: It may not have been unique if Google Code was still around.  Google Code shut down on January 25, 2016.
+
+USER STUDY
+
+Task 1. Sign in to Github.  This will require registering for an account if don’t already have one.
+
+
+Task 2. Request access to our LIS590 repository.
+
+
+Task 3.  There are two branches in the repository.  What would you say are their differences?
+
